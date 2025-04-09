@@ -29,6 +29,14 @@
 - Permitir a tokenização dos empréstimos (ex.: NFTs representando - dívidas).
 
 ## Opening Video:
-
+- 
 
 ## Tutorial:
+- 
+
+## Links úteis
+
+-
+-
+-
+-
